@@ -1,4 +1,5 @@
 Things to do:
+-  fork the repo
 -  create folder based on your name
 -  Update the readme file in your folder 
 -  start contibuting/ work on the week tasks    
